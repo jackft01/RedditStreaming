@@ -15,4 +15,5 @@ The Reddit producer component processes the data received from the Reddit listen
 
 
 Data Storage: Here, you will find information on the data storage approach used in the project. It covers the database schema, file formats, and any relevant considerations for storing Reddit data efficiently and securely.
+
 Analytics: This section showcases the analytics performed on the collected Reddit data. It includes exploratory data analysis, data visualization, and any specific methodologies or algorithms used for deriving insights from the data. For this section I used pandas, numpy and Spark.
